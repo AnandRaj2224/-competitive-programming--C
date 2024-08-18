@@ -1,3 +1,7 @@
+/*this is what i did wrong and right
+i need to learn/revise basics like syntax and stuff ,the logic part is going okish*/
+
+
 # include <stdio.h>
 # include <string.h>
 
