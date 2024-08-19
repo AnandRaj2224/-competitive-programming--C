@@ -1,3 +1,7 @@
+/*my main foucs was to solution to the immidiate problem now finding the key to the soultion which was very easy ,u just had to know the trick.
+waasted too much time on this problem ---- a math trick involved.*/
+
+
 # include <stdio.h>
 
 int main()
