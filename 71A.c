@@ -1,4 +1,4 @@
-/*thing i did wrong 
+/*thing i did 
 -- used a lib function to concat the characters and number[need to learn how it happens under the hood]
 -- condition setting of length - be super clear or error may happen [length<10-X length<=10-✔]*/
 
